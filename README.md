@@ -1,6 +1,6 @@
 # Clean Architecture Template
 
-Source: [**Milan Jovanović**]([https://github.com](https://github.com/m-jovanovic))
+Source: [**Milan Jovanović**]([https://github.com](https://github.com/m-jovanovic)):
 
 What's included in the template?
 
